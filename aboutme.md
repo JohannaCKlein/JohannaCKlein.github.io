@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: And about my work
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Now
+I am Johanna C. Klein, PhD student in 2nd year in the Laboratoire de Chimie Théorique (LCT CNRS UMR7616) at the Sorbonne Université. I am working supervised by Julien Pilmé on an approach to describe and predict chemical reactivity based on the topological analysis of the ELFx function.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+## Past
+- Master 1 Theoretical Chemistry and Modelling, University of Montpellier 2
+- Master 1 Fundamental Physics, Aix-Marseille University
+- Master 2 Theoretical Chemistry and Modelling, University Paul Sabatier, Toulouse 3
 
-### My story
+Graduation internship: participation in the development of [IGMPlot](igmplot.univ-reims.fr/download.php) (release 2.6.7)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Future
+Coming soon...
