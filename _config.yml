@@ -6,20 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Personnal page
 
 # Your name to show in the footer
-author: Some Person
+author: Johanna C. Klein
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -27,7 +23,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -39,10 +35,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "johanna.klein@sorbonne-universite.fr"
+  twitter: johanna_c_klein
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -58,7 +52,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4557-4158" href="https://orcid.org/0000-0003-4557-4158" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4557-4158</a></div>
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
