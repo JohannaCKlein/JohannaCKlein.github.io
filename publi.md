@@ -17,4 +17,4 @@ _The Journal of Physical Chemistry A_ **2020** 124 (9), 1850-1860
 
 # Software packages
 
-1. IGMPlot ([release 2.6.7](http://igmplot.univ-reims.fr/download.php))
+- IGMPlot ([release 2.6.7](http://igmplot.univ-reims.fr/download.php))
