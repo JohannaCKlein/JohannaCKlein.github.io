@@ -6,7 +6,6 @@ tags: [test]
 comments: false
 ---
 
-``` 
-{python}
-print("hello world")
+```{r setup, include = FALSE}
+knitr::knit_engines$set(python = reticulate::eng_python)
 ```
