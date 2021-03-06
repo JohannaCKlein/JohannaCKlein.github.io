@@ -5,6 +5,12 @@ subtitle: And other contributions
 ---
 # Articles
 
+3 . **New insights in chemical reactivity from quantum chemical topology**
+<u>Klein J</u>, Fleurat-Lessard P, Pilmé J.
+_J Comput Chem._ **2021**;1–15. [DOI: 10.
+1002/jcc.26504](https://doi.org/10.
+1002/jcc.26504) 
+
 2 . **Novel approach to accurately predict bond strength and ligand lability in platinum-based anticancer drugs**  
 Miguel Ponce-Vargas, <u>Johanna Klein</u> and  Eric Hénon  
 _Dalton Trans._, **2020**,49, 12632-12642  
