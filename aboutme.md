@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: And about my work
+subtitle: Curriculum vitæ
 ---
+
 In construction ...
