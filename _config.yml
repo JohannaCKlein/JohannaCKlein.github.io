@@ -98,10 +98,10 @@ feed_show_tags: true
 #footer-text-col: "#777777"
 #footer-link-col: "#404040"
 
-navbar-col: "#607d8b"
+navbar-col: "#607D8B"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#000000"
 text-col: "#404040"
 link-col: "#d2458b"
 hover-col: "#0085A1"
