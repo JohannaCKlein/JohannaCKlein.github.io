@@ -89,14 +89,14 @@ feed_show_tags: true
 
 navbar-col: "#DEDEDDff"
 navbar-text-col: "#000000ff"
-navbar-border-col: "#8DD2CCff"
+navbar-border-col: "#2F2F3Dff"
 page-col: "#FFFFFF"
 text-col: "#000000ff"
 link-col: "#EA847Aff"
 hover-col: "#0085A1"
 footer-col: "#DEDEDDff"
 footer-text-col: "#000000ff"
-footer-link-col: "#404040"
+footer-link-col: "#E576C6ff"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
